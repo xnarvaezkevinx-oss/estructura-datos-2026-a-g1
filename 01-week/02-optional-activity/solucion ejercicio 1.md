@@ -1,0 +1,12 @@
+**Aplicación elegida:** WhatsApp  
+
+**Tipos de datos que maneja:**
+- Mensajes de texto  
+- Contactos  
+- Archivos multimedia (imágenes, videos, audios, documentos)  
+
+**Cómo podrían organizarse los datos:**
+- **Mensajes:** organizados en conversaciones o chats por cada contacto o grupo.  
+- **Contactos:** almacenados en una base de datos con nombre, número y foto de perfil.  
+- **Archivos multimedia:** clasificados por tipo (imágenes, videos, audios) y vinculados al chat donde fueron enviados.  
+- **Historial:** orden cronológico para mostrar los mensajes más recientes primero.
